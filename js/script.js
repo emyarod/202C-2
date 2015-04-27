@@ -21,3 +21,8 @@ $(document).ready(function(){
 
 // sidenav
 $(".button-collapse").sideNav();
+
+// scrollspy
+$(document).ready(function(){
+  $('.scrollspy').scrollSpy();
+});
