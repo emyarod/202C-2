@@ -18,3 +18,6 @@ $(function() {
 $(document).ready(function(){
   $('.parallax').parallax();
 });
+
+// sidenav
+$(".button-collapse").sideNav();
