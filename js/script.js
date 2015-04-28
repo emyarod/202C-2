@@ -15,3 +15,8 @@ $(document).ready(function(){
 $(document).ready(function(){
   $('.table-of-contents').pushpin({ top: $('.table-of-contents').offset().top });
 });
+
+// material box
+$(document).ready(function(){
+  $('.materialboxed').materialbox();
+});
