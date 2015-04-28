@@ -38,8 +38,12 @@ p {
 }
 
 
-.icon-block {
-  padding: 0 15px;
+.table-of-contents {
+  z-index: 99;
+}
+
+.card .card-reveal {
+  left: 0;
 }
 
 footer.page-footer {
